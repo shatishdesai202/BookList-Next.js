@@ -1,0 +1,10 @@
+.slider_image_content {
+  display: flex !important;
+  justify-content: center;
+  background-color: whitesmoke;
+}
+
+.carousel {
+  overflow-x: hidden;
+  height: 302px;
+}
